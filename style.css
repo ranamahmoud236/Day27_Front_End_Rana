@@ -1,0 +1,24 @@
+li a {
+    color: #666;
+  }
+
+  #google {
+    height: 130px;
+    width: 310px ;
+    margin-left: 500px;
+}
+button{
+    height:38px  ;
+    width : 140px ;
+    background-color :#f6f6f6 ;
+    font-size: 20px ; 
+    color : #222222 ;
+    margin-top: 30px ;
+    border: 1px solid #e4e4e4 ;
+} 
+#secondlist{
+    list-style: none ;
+    margin-left: -25px ;
+    color: #6f6f6f
+
+}
